@@ -1,4 +1,4 @@
-#AI-Driven-Nutritional-Element-Mapping-and-Precision-Profiling-in-Food-Analysis
+# AI-Driven-Nutritional-Element-Mapping-and-Precision-Profiling-in-Food-Analysis
 
 A cutting-edge machine learning system for analyzing food composition through multi-spectral data, predicting macronutrients, detecting heavy metal toxicity, and classifying food safety grades using custom decision forests and neural networks.
 
