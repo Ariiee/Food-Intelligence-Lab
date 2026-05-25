@@ -134,7 +134,7 @@ That's it! The script will:
 ## 📁 Project Structure
 
 ```
-Ari Janta Party/
+AI-Driven-Nutritional-Element-Mapping-and-Precision-Profiling-in-Food-Analysis/
 ├── run_neural_lab.bat                 # ⭐ MASTER STARTUP SCRIPT
 ├── README.md                          # This file
 │
