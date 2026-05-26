@@ -1,4 +1,4 @@
-# NEURAL_LAB_v2.1
+# Food Intelligence Lab
 
 **AI Food Spectroscopy & Nutritional Intelligence Platform**
 
@@ -134,7 +134,7 @@ That's it! The script will:
 ## 📁 Project Structure
 
 ```
-Ari Janta Party/
+Food Intelligence Lab/
 ├── run_neural_lab.bat                 # ⭐ MASTER STARTUP SCRIPT
 ├── README.md                          # This file
 │
@@ -384,7 +384,7 @@ This project is provided as-is for educational and research purposes.
 
 ## 🙌 Credits
 
-**Food Intelligence lab** was built with:
+**Food Intelligence Lab** was built with:
 - Modern web technologies (React, Next.js, TypeScript)
 - Cutting-edge ML libraries (scikit-learn, Pandas)
 - Beautiful design systems (Tailwind, Framer Motion)
