@@ -1,4 +1,6 @@
-# AI-Driven-Nutritional-Element-Mapping-and-Precision-Profiling-in-Food-Analysis
+# NEURAL_LAB_v2.1
+
+**AI Food Spectroscopy & Nutritional Intelligence Platform**
 
 A cutting-edge machine learning system for analyzing food composition through multi-spectral data, predicting macronutrients, detecting heavy metal toxicity, and classifying food safety grades using custom decision forests and neural networks.
 
@@ -132,7 +134,7 @@ That's it! The script will:
 ## 📁 Project Structure
 
 ```
-AI-Driven-Nutritional-Element-Mapping-and-Precision-Profiling-in-Food-Analysis/
+Ari Janta Party/
 ├── run_neural_lab.bat                 # ⭐ MASTER STARTUP SCRIPT
 ├── README.md                          # This file
 │
@@ -382,7 +384,7 @@ This project is provided as-is for educational and research purposes.
 
 ## 🙌 Credits
 
-**NEURAL_LAB_v2.1** was built with:
+**Food Intelligence lab** was built with:
 - Modern web technologies (React, Next.js, TypeScript)
 - Cutting-edge ML libraries (scikit-learn, Pandas)
 - Beautiful design systems (Tailwind, Framer Motion)
